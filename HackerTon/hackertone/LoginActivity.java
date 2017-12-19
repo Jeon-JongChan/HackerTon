@@ -3,7 +3,7 @@ package com.example.hackertone;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.loki3.hackertone.R;
+import com.example.hackertone.R;
 
 public class LoginActivity extends AppCompatActivity {
 
