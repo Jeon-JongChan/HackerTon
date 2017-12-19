@@ -1,4 +1,4 @@
-package com.example.daeun.hakerthon_haesam;
+package com.example.hackathon;
 
 import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;

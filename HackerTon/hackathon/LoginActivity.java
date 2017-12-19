@@ -1,4 +1,4 @@
-package com.example.bjsing.hackerton;
+package com.example.hackathon;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
